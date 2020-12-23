@@ -1,0 +1,6 @@
+{
+    "require": {
+        "inacho/php-credit-card-validator": "1.*",
+        "phpmailer/phpmailer": "~6.1"
+    }
+}
